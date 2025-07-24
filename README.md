@@ -16,6 +16,7 @@
 GitHubプロジェクトのクローン：
 ```bash
 git clone https://github.com/sean-mendous/generate_salessentence.git
+cd generate_salessentence
 ```
 
 **ステップ2**
@@ -28,7 +29,6 @@ pyenv activate
 **ステップ3**
 ライブラリのインストール：
 ```bash
-cd generate_salessentence
 pip install -r requirements.txt
 ```
 
